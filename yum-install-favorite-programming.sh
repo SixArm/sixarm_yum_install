@@ -20,6 +20,7 @@ sudo yum install -y luajit                 `# Lua - Just In Time compiler`
 sudo yum install -y luarocks               `# Lua - deployment and management system for modules`
 sudo yum install -y php5                   `# PHP - server-side, HTML-embedded scripting language (metapackage)`
 sudo yum install -y python                 `# Python - an interactive high-level object-oriented language (default version)`
+sudo yum install -y python36               `# Python - an interactive high-level object-oriented language (version 3.6)`
 sudo yum install -y python-configobj       `# Python - simple but powerful config file reader and writer for Python`
 sudo yum install -y python-dateutil        `# Python - powerful extensions to the standard datetime module`
 sudo yum install -y python-dev             `# Python - Header files and a static library for Python (default)`
