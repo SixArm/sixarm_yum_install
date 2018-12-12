@@ -3,6 +3,7 @@ sudo yum install -y autoconf               `# automatic configure script builder
 sudo yum install -y bison                  `# A parser generator that is compatible with YACC`
 sudo yum install -y byacc                  `# public domain Berkeley LALR Yacc parser generator`
 sudo yum install -y cmake                  `# A utility for compiling projects`
+sudo yum install -y cmake3                 `# A utility for compiling projects, version 3`
 sudo yum install -y cryptsetup             `# configures encrypted block devices`
 sudo yum install -y cscope                 `# Interactively examine a C program source`
 sudo yum install -y curl                   `# Get a file from an HTTP, HTTPS or FTP server`
