@@ -21,6 +21,8 @@ sudo yum install -y htop                   `# interactive processes viewer`
 sudo yum install -y intltool               `# Utility scripts for internationalizing XML`
 sudo yum install -y iproute                `# networking and traffic control tools`
 sudo yum install -y less                   `# pager program similar to more`
+sudo yum install -y less                   `# pager program similar to more`
+sudo yum install -y libtool                `# GNU generic library support script for shared libraries`
 sudo yum install -y lsb                    `# Linux Standard Base 4.0 support package`
 sudo yum install -y lynx                   `# Text-mode WWW Browser (transitional package)`
 sudo yum install -y make                   `# A utility for directing compilation`
