@@ -2,6 +2,7 @@
 sudo yum install -y autoconf               `# automatic configure script builder`
 sudo yum install -y bison                  `# A parser generator that is compatible with YACC`
 sudo yum install -y byacc                  `# public domain Berkeley LALR Yacc parser generator`
+sudo yum install -y cmake                  `# A utility for compiling projects`
 sudo yum install -y cryptsetup             `# configures encrypted block devices`
 sudo yum install -y cscope                 `# Interactively examine a C program source`
 sudo yum install -y curl                   `# Get a file from an HTTP, HTTPS or FTP server`
@@ -22,7 +23,7 @@ sudo yum install -y iproute                `# networking and traffic control too
 sudo yum install -y less                   `# pager program similar to more`
 sudo yum install -y lsb                    `# Linux Standard Base 4.0 support package`
 sudo yum install -y lynx                   `# Text-mode WWW Browser (transitional package)`
-sudo yum install -y make                   `# An utility for Directing compilation.`
+sudo yum install -y make                   `# A utility for directing compilation`
 sudo yum install -y man-db                 `# on-line manual pager`
 sudo yum install -y mc                     `# Midnight Commander - a powerful file manager`
 sudo yum install -y mutt                   `# text-based mailreader supporting MIME, GPG, PGP and threading`
