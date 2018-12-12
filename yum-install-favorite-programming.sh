@@ -48,8 +48,8 @@ sudo yum install -y python-twisted         `# Python - Event-based framework for
 sudo yum install -y python-unit            `# Python - unit test framework`
 sudo yum install -y python-vobject         `# Python - parse iCalendar and VCards in Python`
 sudo yum install -y python-zope.interface  `# Python - Zope Interfaces for Python`
-sudo yum install -y ruby-full              `# Ruby - An interpreter of object-oriented scripting language Ruby`
-sudo yum install -y ruby-dev               `# Ruby - Header files for compiling extension modules for Ruby`
+sudo yum install -y ruby                   `# Ruby - An interpreter of object-oriented scripting language Ruby`
+
 
 ## LLVM
 sudo yum install -y llvm
