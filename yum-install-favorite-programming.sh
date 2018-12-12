@@ -1,6 +1,7 @@
 
 sudo yum install -y ant                    `# Java based build tool like make`
 sudo yum install -y ant-doc                `# Java based build tool like make - API documentation and manual`
+sudo yum install -y clang                  `# A compiler front end for LLVM compiler back end`
 sudo yum install -y clojure                `# Lisp dialect for the JVM`
 sudo yum install -y cpp                    `# C preprocessor`
 sudo yum install -y default-jdk            `# Standard Java or Java compatible Development Kit`
