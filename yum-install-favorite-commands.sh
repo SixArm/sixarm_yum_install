@@ -32,7 +32,6 @@ sudo yum install -y mc                     `# Midnight Commander - a powerful fi
 sudo yum install -y mutt                   `# text-based mailreader supporting MIME, GPG, PGP and threading`
 sudo yum install -y nano                   `# Small friendly text editor inspired by Pico`
 sudo yum install -y ncurses-base           `# ncurses - Basic terminal type definitions`
-sudo yum install -y ncurses-runtime        `# ncurses - Runtime`
 sudo yum install -y ncurses-term           `# ncurses - Additional terminal type definitions`
 sudo yum install -y patch                  `# Apply a diff file to an original`
 sudo yum install -y rsync                  `# fast remote file copy program (like rcp)`
@@ -47,5 +46,4 @@ sudo yum install -y udev                   `# rule-based device node and kernel 
 sudo yum install -y unzip                  `# De-archiver for .zip files`
 sudo yum install -y uuid                   `# Universally Unique Identifier command-line tool`
 sudo yum install -y xauth                  `# X authentication utility`
-sudo yum install -y zlib1g-dev             `# compression library - development`
 sudo yum install -y zsh                    `# A shell with lots of features`

@@ -4,7 +4,6 @@ sudo yum install -y alarm-clock                     `# Alarm Clock [GTK]`
 sudo yum install -y amarok                          `# Easy to use media player [KDE]`
 sudo yum install -y anki                            `# Extensible flashcard learning program`
 sudo yum install -y ant                             `# Java based build tool like make`
-sudo yum install -y ant-doc                         `# Java based build tool like make - API documentation and manual`
 sudo yum install -y apache2                         `# Apache HTTP Server - metapackage`
 sudo yum install -y apache2-doc                     `# Apache HTTP Server - documentation`
 sudo yum install -y apache2-mpm-event               `# Apache HTTP Server - event driven model`
@@ -44,9 +43,6 @@ sudo yum install -y cryptsetup                      `# configures encrypted bloc
 sudo yum install -y cscope                          `# Interactively examine a C program source`
 sudo yum install -y curl                            `# Get a file from an HTTP, HTTPS or FTP server`
 sudo yum install -y deborphan                       `# program that can find unused packages, e.g. libraries`
-sudo yum install -y default-jdk                     `# Standard Java or Java compatible Development Kit`
-sudo yum install -y default-jre                     `# Standard Java or Java compatible Runtime`
-sudo yum install -y default-jre-headless            `# Standard Java or Java compatible Runtime (headless)`
 sudo yum install -y devscripts                      `# scripts to make the life of a Debian Package maintainer easier`
 sudo yum install -y dictd                           `# dictionary server`
 sudo yum install -y digikam                         `# Digital photo management application [KDE]`
@@ -90,7 +86,6 @@ sudo yum install -y fusefat                         `# FUSE - Filesystem in User
 sudo yum install -y fuseiso                         `# FUSE - Filesystem in Userspace - Module for ISO filesystem images`
 sudo yum install -y fuseiso9660                     `# FUSE - Filesystem in Userspace - Module for ISO9660`
 sudo yum install -y fusesmb                         `# FUSE - Filesystem in Userspace - Module for SMB file transfer protocol`
-sudo yum install -y g++                             `# The GNU C++ compiler`
 sudo yum install -y gcc                             `# The GNU C compiler`
 sudo yum install -y gdb                             `# The GNU Debugger`
 sudo yum install -y gettext                         `# GNU Internationalization utilities`
@@ -128,7 +123,6 @@ sudo yum install -y intltool                        `# Utility scripts for inter
 sudo yum install -y iproute                         `# networking and traffic control tools`
 sudo yum install -y istanbul                        `# Desktop session recorder producing Ogg Theora video`
 sudo yum install -y ivy                             `# The agile dependency manager`
-sudo yum install -y ivy-doc                         `# The agile dependency manager (documentation)`
 sudo yum install -y javahelp2                       `# Java help system`
 sudo yum install -y javascript-common               `# Base support for javascript library packages`
 sudo yum install -y jruby                           `# 100% pure-Java implementation of Ruby`
@@ -146,9 +140,7 @@ sudo yum install -y littler                         `# R scripting and command-l
 sudo yum install -y locales                         `# common files for locale support`
 sudo yum install -y lsb                             `# Linux Standard Base 4.0 support package`
 sudo yum install -y lua                             `# Lua - small embeddable language with simple procedural syntax`
-sudo yum install -y luadoc                          `# Lua - documentation generator`
 sudo yum install -y luajit                          `# Lua - Just In Time compiler`
-sudo yum install -y luarocks                        `# Lua - deployment and management system for modules`
 sudo yum install -y luasocket                       `# Lua - TCP/UDP socket library`
 sudo yum install -y lynx                            `# Text-mode WWW Browser (transitional package)`
 sudo yum install -y make                            `# An utility for Directing compilation.`
@@ -190,7 +182,6 @@ sudo yum install -y ncurses-base                    `# ncurses - Basic terminal 
 sudo yum install -y ncurses-bin                     `# ncurses - Terminal-related programs and man pages`
 sudo yum install -y ncurses-dev                     `# ncurses - Development headers`
 sudo yum install -y ncurses-hexedit                 `# ncurses - Edit files/disks in hex, ASCII and EBCDIC`
-sudo yum install -y ncurses-runtime                 `# ncurses - Runtime`
 sudo yum install -y ncurses-term                    `# ncurses - Additional terminal type definitions`
 sudo yum install -y ndoutils-nagios3-mysql          `# This provides the NDOUtils for Nagios with MySQL support`
 sudo yum install -y ntp                             `# Network Time Protocol daemon and utility programs`
@@ -218,31 +209,13 @@ sudo yum install -y pyqt4-dev-tools                 `# Development tools for PyQ
 sudo yum install -y python                          `# Python - an interactive high-level object-oriented language (default version)`
 sudo yum install -y python-configobj                `# Python - simple but powerful config file reader and writer for Python`
 sudo yum install -y python-dateutil                 `# Python - powerful extensions to the standard datetime module`
-sudo yum install -y python-dev                      `# Python - Header files and a static library for Python (default)`
-sudo yum install -y python-gdbm                     `# Python - GNU dbm database support for Python`
-sudo yum install -y python-glade2                   `# Python - GTK+ bindings: Glade support`
-sudo yum install -y python-gobject-dev              `# Python - Development headers for the GObject Python bindings`
-sudo yum install -y python-gtk2-dev                 `# Python - GTK+ bindings: devel files`
-sudo yum install -y python-gtk2-doc                 `# Python - Python bindings for the GTK+ widget set - documentation`
-sudo yum install -y python-mysqldb                  `# Python - interface to MySQL DB`
 sudo yum install -y python-paramiko                 `# Python - Make ssh v2 connections with Python`
-sudo yum install -y python-parsedatetime            `# Python - module to parse human-readable date/time expressions`
 sudo yum install -y python-pip                      `# Python -  Alternative Python package installer`
 sudo yum install -y python-pycurl                   `# Python - bindings to libcurl`
 sudo yum install -y python-pygments                 `# Python - syntax highlighting package`
-sudo yum install -y python-pyicu                    `# Python - extension wrapping the ICU C++ API`
-sudo yum install -y python-pyinotify                `# Python - Simple Linux inotify bindings`
-sudo yum install -y python-pysqlite2                `# Python - SQLite interface`
-sudo yum install -y python-rpy                      `# Python - interface to the R language`
-sudo yum install -y python-rpy-doc                  `# Python - interface to the  language (documentation package)`
 sudo yum install -y python-setuptools               `# Python - Distutils Enhancements (setuptools compatibility)`
 sudo yum install -y python-simplejson               `# Python - Simple, fast, extensible JSON encoder/decoder`
-sudo yum install -y python-subversion               `# Python - bindings for Subversion`
-sudo yum install -y python-support                  `# Python - automated rebuilding support for Python modules`
 sudo yum install -y python-twisted                  `# Python - Event-based framework for internet applications (transitional package)`
-sudo yum install -y python-unit                     `# Python - unit test framework`
-sudo yum install -y python-vobject                  `# Python - parse iCalendar and VCards in Python`
-sudo yum install -y python-zope.interface           `# Python - Zope Interfaces for Python`
 sudo yum install -y pyzor                           `# spam-catcher using a collaborative filtering network`
 sudo yum install -y r-base                          `# R statistical computation and graphics system`
 sudo yum install -y r-base-core                     `# R core of statistical computation and graphics system`
@@ -475,6 +448,5 @@ sudo yum install -y wine                            `# Wine - Microsoft Windows 
 sudo yum install -y xauth                           `# X authentication utility`
 sudo yum install -y xclip                           `# command line interface to X selections`
 sudo yum install -y yasm                            `# modular assembler with multiple syntaxes support`
-sudo yum install -y zlib1g-dev                      `# compression library - development`
 sudo yum install -y zsh                             `# A shell with lots of features`
 sudo yum install -y zsh-doc                         `# zsh documentation - info/HTML format`
