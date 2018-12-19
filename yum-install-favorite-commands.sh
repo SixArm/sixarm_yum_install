@@ -11,8 +11,10 @@ sudo yum install -y curl                   `# Get a file from an HTTP, HTTPS or 
 sudo yum install -y dkms                   `# Dynamic Kernel Module Support Framework`
 sudo yum install -y elinks                 `# advanced text-mode WWW browser`
 sudo yum install -y flac                   `# Free Lossless Audio Codec - command line tools`
+sudo yum install -y flex                   `# fast lexical analyzer generator`
 sudo yum install -y fop                    `# XML to PDF Translator`
 sudo yum install -y gettext                `# GNU Internationalization utilities`
+sudo yum install -y gcc                    `# GNU Compiler Collection`
 sudo yum install -y gcc-c++                `# GNU Compiler Collection for C++ code`
 sudo yum install -y gnupg                  `# GNU privacy guard - a free PGP replacement`
 sudo yum install -y gnuplot                `# Gnuplot - A command-line driven interactive plotting program`
