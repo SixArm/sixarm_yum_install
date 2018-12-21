@@ -155,6 +155,7 @@ sudo yum install -y mercurial                       `# Mercurial - scalable dist
 sudo yum install -y mercurial-common                `# Mercurial - scalable distributed version control system (common files)`
 sudo yum install -y mercurial-git                   `# Mercurial - Git plugin`
 sudo yum install -y mime-support                    `# MIME files 'mime.types' & 'mailcap', and support programs`
+sudo yum install -y mlocate                         `# Find files quickly by using a database index`
 sudo yum install -y mongodb                         `# An object/document-oriented database`
 sudo yum install -y most                            `# Pager program similar to more and less`
 sudo yum install -y mutt                            `# text-based mailreader supporting MIME, GPG, PGP and threading`
